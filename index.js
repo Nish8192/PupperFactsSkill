@@ -2,7 +2,7 @@
 var Alexa = require('alexa-sdk');
 
 var APP_ID = "amzn1.ask.skill.49b53010-928a-4e22-a29c-31de425a8613"; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
-var SKILL_NAME = 'Cat Facts';
+var SKILL_NAME = 'Pupper Facts';
 
 /**
  * Array containing space facts.
